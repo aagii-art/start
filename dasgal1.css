@@ -1,0 +1,67 @@
+.huree {
+  display: flex;
+  justify-content: space-around;
+  background-color: green;
+  height: 250px;
+  width: 1000px;
+  align-items: center;
+  border: black solid;
+  margin: 25px;
+
+  border-width: 10px;
+}
+.home {
+  text-emphasis-color: white;
+  background-color: blue;
+  border-style: groove;
+
+  border-radius: 15px;
+  width: 100px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  : Arial, Helvetica, sans-serif;
+}
+.about {
+  text-emphasis-color: white;
+  background-color: blue;
+  border-style: groove;
+
+  border-radius: 15px;
+  width: 100px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  : Arial, Helvetica, sans-serif;
+}.our {
+  text-emphasis-color: white;
+  background-color: blue;
+  border-style: groove;
+
+  border-radius: 15px;
+  width: 100px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  : Arial, Helvetica, sans-serif;
+}
+.contact {
+  text-emphasis-color: white;
+  background-color: blue;
+  border-style: groove;
+
+  border-radius: 15px;
+  width: 100px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  : Arial, Helvetica, sans-serif;
+}
